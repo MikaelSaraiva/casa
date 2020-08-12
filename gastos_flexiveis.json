@@ -16,6 +16,52 @@
                     "Mikael deve 8,00 para Inã",
                     "Paola deve 10,00 para Inã"
                 ]
+            },
+            {
+                "descricao": "pizza pop",
+                "data": "07-08-2020",
+                "divisao": [
+                    "Inã deve 20,00 para Mikael",
+                    "Paola deve 20,00 para Mikael"
+                ]
+            },
+            {
+                "descricao": "saca rolha e moedor",
+                "data": "11-08-2020",
+                "divisao": [
+                    "Mikael deve 13,33 para Inã",
+                    "Paola deve 13,33 para Inã"
+                ]
+            },
+            {
+                "descricao": "mercadinho limeira",
+                "data": "11-08-2020",
+                "divisao": [
+                    "Mikael deve 3,11 para Inã",
+                    "Paola deve 3,11 para Inã"
+                ]
+            },
+            {
+                "descricao": "mercadinho limeira",
+                "data": "07-08-2020",
+                "divisao": [
+                    "Mikael deve 3,30 para Inã",
+                    "Paola deve 3,30 para Inã"
+                ]
+            },
+            {
+                "descricao": "algodão",
+                "data": "10-08-2020",
+                "divisao": [
+                    "Mikael deve 4,15 para Inã"
+                ]
+            },
+            {
+                "descricao": "marmita",
+                "data": "02-08-2020",
+                "divisao": [
+                    "Paola deve 20 para Inã"
+                ]
             }
         ]
     }

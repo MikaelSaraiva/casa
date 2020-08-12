@@ -167,6 +167,208 @@
                 ],
                 "date": "03-08-2020",
                 "users": ["inã", "paola", "mikael"]
+            },
+            {
+                "items": [
+                    {
+                        "name": "banana",
+                        "valor": 3.39,
+                        "division": {}
+                    },
+                    {
+                        "name": "maçã",
+                        "valor": 3.79,
+                        "division": {}
+                    },
+                    {
+                        "name": "queijo",
+                        "valor": 9.99,
+                        "division": {}
+                    },
+                    {
+                        "name": "ice",
+                        "valor": 11.18,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "chocolatto",
+                        "valor": 19.79,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "chinelo",
+                        "valor": 39.00,
+                        "division": {
+                            "inã": 1,
+                            "paola": 1
+                        }
+                    }
+                ],
+                "date": "07-08-2020",
+                "users": ["inã", "paola", "mikael"]
+            },
+            {
+                "items": [
+                    {
+                        "name": "sobrecoxa",
+                        "valor": 9.99,
+                        "division": {}
+                    },
+                    {
+                        "name": "amendoim",
+                        "valor": 4.59,
+                        "division": {
+                            "paola": 1
+                        }
+                    },
+                    {
+                        "name": "halls",
+                        "valor": 1.19,
+                        "division": {
+                            "paola": 1
+                        }
+                    },
+                    {
+                        "name": "ice",
+                        "valor": 10.58,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "fusion",
+                        "valor": 5.15,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "banana",
+                        "valor": 4.37,
+                        "division": {}
+                    },
+                    {
+                        "name": "maçã",
+                        "valor": 3.55,
+                        "division": {}
+                    },
+                    {
+                        "name": "cebola",
+                        "valor": 1.80,
+                        "division": {}
+                    },
+                    {
+                        "name": "tomate",
+                        "valor": 2.59,
+                        "division": {}
+                    },
+                    {
+                        "name": "macarrão",
+                        "valor": 10.70,
+                        "division": {}
+                    },
+                    {
+                        "name": "calabresa",
+                        "valor": 15.55,
+                        "division": {}
+                    },
+                    {
+                        "name": "queijo",
+                        "valor": 8.60,
+                        "division": {}
+                    },
+                    {
+                        "name": "mortadela",
+                        "valor": 6.49,
+                        "division": {}
+                    },
+                    {
+                        "name": "molho de tomate",
+                        "valor": 11.66,
+                        "division": {}
+                    },
+                    {
+                        "name": "leite",
+                        "valor": 7.50,
+                        "division": {
+                            "paola": 1
+                        }
+                    },
+                    {
+                        "name": "filtro de café",
+                        "valor": 3.45,
+                        "division": {}
+                    },
+                    {
+                        "name": "chá",
+                        "valor": 5.75,
+                        "division": {}
+                    },
+                    {
+                        "name": "capuccino",
+                        "valor": 16.95,
+                        "division": {}
+                    },
+                    {
+                        "name": "negresco",
+                        "valor": 3.98,
+                        "division": {
+                            "mikael": 1
+                        }
+                    },
+                    {
+                        "name": "oreo",
+                        "valor": 2.95,
+                        "division": {
+                            "paola": 1
+                        }
+                    },
+                    {
+                        "name": "emapanada",
+                        "valor": 6.49,
+                        "division": {
+                            "paola": 1
+                        }
+                    },
+                    {
+                        "name": "chiclete",
+                        "valor": 1.99,
+                        "division": {
+                            "paola": 1
+                        }
+                    },
+                    {
+                        "name": "arroz",
+                        "valor": 7.38,
+                        "division": {}
+                    },
+                    {
+                        "name": "pão",
+                        "valor": 5.15,
+                        "division": {}
+                    },
+                    {
+                        "name": "cif cremoso",
+                        "valor": 6.89,
+                        "division": {}
+                    },
+                    {
+                        "name": "fanta uva",
+                        "valor": 5.75,
+                        "division": {}
+                    },
+                    {
+                        "name": "papel higiênico",
+                        "valor": 26.95,
+                        "division": {}
+                    }
+                ],
+                "date": "10-08-2020",
+                "users": ["inã", "paola", "mikael"]
             }
         ]
     }
