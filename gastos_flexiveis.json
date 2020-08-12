@@ -1,0 +1,22 @@
+{
+    "2020": {
+        "08": [
+            {
+                "descricao": "mercado",
+                "data": "03-08-2020",
+                "divisao": [
+                    "Mikael deve 54,25 para Inã",
+                    "Paola deve 67,50 para Inã"
+                ]
+            },
+            {
+                "descricao": "coxinhas - ragazzo",
+                "data": "04-08-2020",
+                "divisao": [
+                    "Mikael deve 8,00 para Inã",
+                    "Paola deve 10,00 para Inã"
+                ]
+            }
+        ]
+    }
+}

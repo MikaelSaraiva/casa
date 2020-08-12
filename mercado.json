@@ -1,0 +1,173 @@
+{
+    "2020": {
+        "08": [
+            {
+                "items": [
+                    {
+                        "name": "sabão em pó",
+                        "valor": 13.99,
+                        "division": {}
+                    },
+                    {
+                        "name": "mac'n'cheese",
+                        "valor": 9.65,
+                        "division": {
+                            "inã": 1
+                        },
+                        "totalWeight": 1
+                    },
+                    {
+                        "name": "linguiça",
+                        "valor": 16.99,
+                        "division": {}
+                    },
+                    {
+                        "name": "frango",
+                        "valor": 10.95,
+                        "division": {}
+                    },
+                    {
+                        "name": "manteiga",
+                        "valor": 8.95,
+                        "division": {
+                            "paola": 1
+                        },
+                        "totalWeight": 1
+                    },
+                    {
+                        "name": "biscoito caro",
+                        "valor": 33.99,
+                        "division": {
+                            "inã": 1
+                        },
+                        "totalWeight": 1
+                    },
+                    {
+                        "name": "macarrão",
+                        "valor": 16.05,
+                        "division": {}
+                    },
+                    {
+                        "name": "cebola",
+                        "valor": 3.92,
+                        "division": {}
+                    },
+                    {
+                        "name": "batata",
+                        "valor": 2.69,
+                        "division": {}
+                    },
+                    {
+                        "name": "tomate",
+                        "valor": 2.00,
+                        "division": {}
+                    },
+                    {
+                        "name": "limão",
+                        "valor": 5.71,
+                        "division": {}
+                    },
+                    {
+                        "name": "chocolate",
+                        "valor": 4.25,
+                        "division": {
+                            "inã": 1
+                        },
+                        "totalWeight": 1
+                    },
+                    {
+                        "name": "negresco",
+                        "valor": 1.99,
+                        "division": {
+                            "mikael": 1
+                        },
+                        "totalWeight": 1
+                    },
+                    {
+                        "name": "saco de lixo",
+                        "valor": 12.49,
+                        "division": {}
+                    },
+                    {
+                        "name": "calabresa",
+                        "valor": 15.55,
+                        "division": {}
+                    },
+                    {
+                        "name": "biscoito sortido",
+                        "valor": 4.79,
+                        "division": {}
+                    },
+                    {
+                        "name": "bala",
+                        "valor": 3.95,
+                        "division": {
+                            "inã": 1,
+                            "paola": 1
+                        },
+                        "totalWeight": 2
+                    },
+                    {
+                        "name": "amendoim",
+                        "valor": 7.99,
+                        "division": {
+                            "inã": 1,
+                            "mikael": 1
+                        },
+                        "totalWeight": 2
+                    },
+                    {
+                        "name": "pão de forma",
+                        "valor": 5.15,
+                        "division": {}
+                    },
+                    {
+                        "name": "doritos",
+                        "valor": 15.50,
+                        "division": {
+                            "inã": 1,
+                            "paola": 1
+                        },
+                        "totalWeight": 2
+                    },
+                    {
+                        "name": "cheetos",
+                        "valor": 6.99,
+                        "division": {
+                            "paola": 1
+                        },
+                        "totalWeight": 1
+                    },
+                    {
+                        "name": "paçoca",
+                        "valor": 6.49,
+                        "division": {
+                            "mikael": 1
+                        },
+                        "totalWeight": 1
+                    },
+                    {
+                        "name": "desinfetante",
+                        "valor": 4.49,
+                        "division": {}
+                    },
+                    {
+                        "name": "ice",
+                        "valor": 5.29,
+                        "division": {
+                            "inã": 1
+                        },
+                        "totalWeight": 1
+                    },
+                    {
+                        "name": "vinho",
+                        "valor": 10.59,
+                        "division": {}
+                    }
+                ],
+                "date": "03-08-2020",
+                "users": ["inã", "paola", "mikael"]
+            }
+        ]
+    }
+}
