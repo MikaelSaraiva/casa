@@ -369,6 +369,171 @@
                 ],
                 "date": "10-08-2020",
                 "users": ["inã", "paola", "mikael"]
+            },
+            {
+                "items": [
+                    {
+                        "name": "empanada",
+                        "valor": 6.90,
+                        "division": {
+                            "paola": 1
+                        }
+                    },
+                    {
+                        "name": "energetico",
+                        "valor": 10.15,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "trident",
+                        "valor": 4.90,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "agua e sal",
+                        "valor": 1.79,
+                        "division": {
+                            "mikael": 1
+                        }
+                    },
+                    {
+                        "name": "refri",
+                        "valor": 5.98,
+                        "division": {}
+                    }
+                ],
+                "date": "15-08-2020",
+                "users": ["inã", "paola", "mikael"]
+            },
+            {
+                "items": [
+                    {
+                        "name": "sobrecoxa",
+                        "valor": 9.99,
+                        "division": {}
+                    },
+                    {
+                        "name": "pão de queijo",
+                        "valor": 13.50,
+                        "division": {}
+                    },
+                    {
+                        "name": "linguiça",
+                        "valor": 15.50,
+                        "division": {}
+                    },
+                    {
+                        "name": "batata",
+                        "valor": 7.06,
+                        "division": {}
+                    },
+                    {
+                        "name": "tomate",
+                        "valor": 6.58,
+                        "division": {}
+                    },
+                    {
+                        "name": "arroz",
+                        "valor": 3.69,
+                        "division": {}
+                    },
+                    {
+                        "name": "massa",
+                        "valor": 5.35,
+                        "division": {}
+                    },
+                    {
+                        "name": "cebola",
+                        "valor": 3.18,
+                        "division": {}
+                    },
+                    {
+                        "name": "molho de tomate",
+                        "valor": 23.12,
+                        "division": {}
+                    },
+                    {
+                        "name": "calabresa",
+                        "valor": 31.10,
+                        "division": {}
+                    },
+                    {
+                        "name": "negresco",
+                        "valor": 3.98,
+                        "division": {
+                            "mikael": 1
+                        }
+                    },
+                    {
+                        "name": "bolachas",
+                        "valor": 8.77,
+                        "division": {}
+                    },
+                    {
+                        "name": "queijo ralado",
+                        "valor": 5.95,
+                        "division": {}
+                    },
+                    {
+                        "name": "detergente",
+                        "valor": 3.98,
+                        "division": {}
+                    },
+                    {
+                        "name": "azeite",
+                        "valor": 17.95,
+                        "division": {}
+                    },
+                    {
+                        "name": "suco de maçã",
+                        "valor": 4.99,
+                        "division": {}
+                    },
+                    {
+                        "name": "esponja de banho",
+                        "valor": 7.99,
+                        "division": {
+                            "paola": 1,
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "pão",
+                        "valor": 4.76,
+                        "division": {}
+                    },
+                    {
+                        "name": "couve",
+                        "valor": 3.15,
+                        "division": {}
+                    },
+                    {
+                        "name": "salsinha",
+                        "valor": 3.15,
+                        "division": {}
+                    },
+                    {
+                        "name": "ovo",
+                        "valor": 5.99,
+                        "division": {}
+                    },
+                    {
+                        "name": "ice",
+                        "valor": 15.87,
+                        "division": {}
+                    },
+                    {
+                        "name": "fusion",
+                        "valor": 9.95,
+                        "division": {}
+                    }
+                ],
+                "date": "16-08-2020",
+                "users": ["inã", "paola", "mikael"]
             }
         ]
     }

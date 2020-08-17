@@ -69,6 +69,35 @@
                 "divisao": [
                     "Paola deve 12 para Inã"
                 ]
+            },
+            {
+                "descricao": "pizza pop",
+                "data": "15-08-2020",
+                "divisao": [
+                    "Inã deve 18,00 para Mikael",
+                    "Paola deve 18,00 para Mikael"
+                ]
+            },
+            {
+                "descricao": "gyros",
+                "data": "13-08-2020",
+                "divisao": [
+                    "Paola deve 7 para Inã"
+                ]
+            },
+            {
+                "descricao": "marmita",
+                "data": "15-08-2020",
+                "divisao": [
+                    "Paola deve 12 para Inã"
+                ]
+            },
+            {
+                "descricao": "marmita",
+                "data": "16-08-2020",
+                "divisao": [
+                    "Inã deve 36 para Paola"
+                ]
             }
         ]
     }
