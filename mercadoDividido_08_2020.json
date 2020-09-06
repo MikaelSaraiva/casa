@@ -1,10 +1,56 @@
 [
     {
         "date": "03-08-2020",
+        "description": "angeloni",
         "division": {
             "inã": "108.69",
             "paola": "67.45",
             "mikael": "54.26"
+        }
+    },
+    {
+        "date": "07-08-2020",
+        "description": "angeloni",
+        "division": {
+            "inã": "56.19",
+            "paola": "25.22",
+            "mikael": "5.72"
+        }
+    },
+    {
+        "date": "10-08-2020",
+        "description": "angeloni",
+        "division": {
+            "inã": "66.92",
+            "paola": "75.90",
+            "mikael": "55.17"
+        }
+    },
+    {
+        "date": "15-08-2020",
+        "description": "angeloni",
+        "division": {
+            "inã": "17.04",
+            "paola": "8.89",
+            "mikael": "3.78"
+        }
+    },
+    {
+        "date": "16-08-2020",
+        "description": "angeloni",
+        "division": {
+            "inã": "71.86",
+            "paola": "71.86",
+            "mikael": "71.84"
+        }
+    },
+    {
+        "date": "NO DATE",
+        "description": "TOTAL",
+        "division": {
+            "inã": "R$ 320.70",
+            "paola": "R$ 249.32",
+            "mikael": "R$ 190.78"
         }
     }
 ]

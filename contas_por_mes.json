@@ -1,12 +1,12 @@
 {
     "2020": {
         "08": {
-            "aluguel": 1540,
-            "energia": 75,
+            "aluguel": 2285,
+            "energia": 125,
             "internet": 110,
-            "condominio": 315,
+            "condominio": 420,
             "spotify": 25,
-            "total": 2065
+            "total": 2965
         }
     }
 }

@@ -2,6 +2,7 @@
     "2020": {
         "08": [
             {
+                "description": "angeloni",
                 "items": [
                     {
                         "name": "sabão em pó",
@@ -13,8 +14,7 @@
                         "valor": 9.65,
                         "division": {
                             "inã": 1
-                        },
-                        "totalWeight": 1
+                        }
                     },
                     {
                         "name": "linguiça",
@@ -31,16 +31,14 @@
                         "valor": 8.95,
                         "division": {
                             "paola": 1
-                        },
-                        "totalWeight": 1
+                        }
                     },
                     {
                         "name": "biscoito caro",
                         "valor": 33.99,
                         "division": {
                             "inã": 1
-                        },
-                        "totalWeight": 1
+                        }
                     },
                     {
                         "name": "macarrão",
@@ -72,16 +70,14 @@
                         "valor": 4.25,
                         "division": {
                             "inã": 1
-                        },
-                        "totalWeight": 1
+                        }
                     },
                     {
                         "name": "negresco",
                         "valor": 1.99,
                         "division": {
                             "mikael": 1
-                        },
-                        "totalWeight": 1
+                        }
                     },
                     {
                         "name": "saco de lixo",
@@ -104,8 +100,7 @@
                         "division": {
                             "inã": 1,
                             "paola": 1
-                        },
-                        "totalWeight": 2
+                        }
                     },
                     {
                         "name": "amendoim",
@@ -113,8 +108,7 @@
                         "division": {
                             "inã": 1,
                             "mikael": 1
-                        },
-                        "totalWeight": 2
+                        }
                     },
                     {
                         "name": "pão de forma",
@@ -127,24 +121,21 @@
                         "division": {
                             "inã": 1,
                             "paola": 1
-                        },
-                        "totalWeight": 2
+                        }
                     },
                     {
                         "name": "cheetos",
                         "valor": 6.99,
                         "division": {
                             "paola": 1
-                        },
-                        "totalWeight": 1
+                        }
                     },
                     {
                         "name": "paçoca",
                         "valor": 6.49,
                         "division": {
                             "mikael": 1
-                        },
-                        "totalWeight": 1
+                        }
                     },
                     {
                         "name": "desinfetante",
@@ -156,8 +147,7 @@
                         "valor": 5.29,
                         "division": {
                             "inã": 1
-                        },
-                        "totalWeight": 1
+                        }
                     },
                     {
                         "name": "vinho",
@@ -165,10 +155,10 @@
                         "division": {}
                     }
                 ],
-                "date": "03-08-2020",
-                "users": ["inã", "paola", "mikael"]
+                "date": "03-08-2020"
             },
             {
+                "description": "angeloni",
                 "items": [
                     {
                         "name": "banana",
@@ -208,10 +198,10 @@
                         }
                     }
                 ],
-                "date": "07-08-2020",
-                "users": ["inã", "paola", "mikael"]
+                "date": "07-08-2020"
             },
             {
+                "description": "angeloni",
                 "items": [
                     {
                         "name": "sobrecoxa",
@@ -367,10 +357,10 @@
                         "division": {}
                     }
                 ],
-                "date": "10-08-2020",
-                "users": ["inã", "paola", "mikael"]
+                "date": "10-08-2020"
             },
             {
+                "description": "angeloni",
                 "items": [
                     {
                         "name": "empanada",
@@ -406,10 +396,10 @@
                         "division": {}
                     }
                 ],
-                "date": "15-08-2020",
-                "users": ["inã", "paola", "mikael"]
+                "date": "15-08-2020"
             },
             {
+                "description": "angeloni",
                 "items": [
                     {
                         "name": "sobrecoxa",
@@ -532,8 +522,138 @@
                         "division": {}
                     }
                 ],
-                "date": "16-08-2020",
-                "users": ["inã", "paola", "mikael"]
+                "date": "16-08-2020"
+            }
+        ],
+        "09": [
+            {
+                "description": "manhattan",
+                "items": [
+                    {
+                        "name": "capeleti",
+                        "valor": 9.50,
+                        "division": {
+                            "paola": 1
+                        }
+                    },
+                    {
+                        "name": "garrafa de vidro",
+                        "valor": 19.1,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "saco de pano",
+                        "valor": 11.90,
+                        "division": {}
+                    },
+                    {
+                        "name": "refri",
+                        "valor": 6.50,
+                        "division": {}
+                    }
+                ],
+                "date": "01-09-2020"
+            },
+            {
+                "description": "imperatriz",
+                "items": [
+                    {
+                        "name": "leite sem lactose",
+                        "valor": 4.90,
+                        "division": {
+                            "paola": 1
+                        }
+                    },
+                    {
+                        "name": "doritos",
+                        "valor": 15.8,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "listerine",
+                        "valor": 21.0,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "filtro de papel",
+                        "valor": 3.4,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "café",
+                        "valor": 7.9,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "monster",
+                        "valor": 7.3,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "ice",
+                        "valor": 12.4,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "iogurte",
+                        "valor": 10.7,
+                        "division": {
+                            "inã": 1
+                        }
+                    },
+                    {
+                        "name": "bolacha",
+                        "valor": 1.7,
+                        "division": {
+                            "mikael": 1
+                        }
+                    },
+                    {
+                        "name": "macarrão",
+                        "valor": 1.90,
+                        "division": {}
+                    },
+                    {
+                        "name": "molho de tomate",
+                        "valor": 6.80,
+                        "division": {}
+                    },
+                    {
+                        "name": "pão de forma",
+                        "valor": 6.40,
+                        "division": {}
+                    },
+                    {
+                        "name": "queijo",
+                        "valor": 17.40,
+                        "division": {}
+                    },
+                    {
+                        "name": "mortadela",
+                        "valor": 7.30,
+                        "division": {}
+                    },
+                    {
+                        "name": "veja",
+                        "valor": 8.70,
+                        "division": {}
+                    }
+                ],
+                "date": "01-09-2020"
             }
         ]
     }

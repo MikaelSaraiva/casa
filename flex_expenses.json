@@ -1,0 +1,310 @@
+{
+    "2020": {
+        "08": [
+            {
+                "description": "marmita",
+                "date": "02-08-2020",
+                "division": [
+                    {
+                        "valor": 20.0,
+                        "from": "paola",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "mercado",
+                "date": "03-08-2020",
+                "division": [
+                    {
+                        "valor": 67.5,
+                        "from": "paola",
+                        "to": "inã"
+                    },
+                    {
+                        "valor": 54.25,
+                        "from": "mikael",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "coxinhas - ragazzo",
+                "date": "04-08-2020",
+                "division": [
+                    {
+                        "valor": 10.0,
+                        "from": "paola",
+                        "to": "inã"
+                    },
+                    {
+                        "valor": 8.0,
+                        "from": "mikael",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "pizza pop",
+                "date": "07-08-2020",
+                "division": [
+                    {
+                        "valor": 20.0,
+                        "from": "inã",
+                        "to": "mikael"
+                    },
+                    {
+                        "valor": 20.0,
+                        "from": "paola",
+                        "to": "mikael"
+                    }
+                ]
+            },
+            {
+                "description": "mercadinho limeira",
+                "date": "07-08-2020",
+                "division": [
+                    {
+                        "valor": 3.3,
+                        "from": "paola",
+                        "to": "inã"
+                    },
+                    {
+                        "valor": 3.3,
+                        "from": "mikael",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "algodão",
+                "date": "10-08-2020",
+                "division": [
+                    {
+                        "valor": 4.15,
+                        "from": "mikael",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "saca rolha e moedor",
+                "date": "11-08-2020",
+                "division": [
+                    {
+                        "valor": 13.3,
+                        "from": "paola",
+                        "to": "inã"
+                    },
+                    {
+                        "valor": 13.3,
+                        "from": "mikael",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "mercadinho limeira",
+                "date": "11-08-2020",
+                "division": [
+                    {
+                        "valor": 3.1,
+                        "from": "paola",
+                        "to": "inã"
+                    },
+                    {
+                        "valor": 3.1,
+                        "from": "mikael",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "marmita",
+                "date": "13-08-2020",
+                "division": [
+                    {
+                        "valor": 12.0,
+                        "from": "paola",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "gyros",
+                "date": "13-08-2020",
+                "division": [
+                    {
+                        "valor": 7.0,
+                        "from": "paola",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "pizza pop",
+                "date": "15-08-2020",
+                "division": [
+                    {
+                        "valor": 18.0,
+                        "from": "inã",
+                        "to": "mikael"
+                    },
+                    {
+                        "valor": 18.0,
+                        "from": "paola",
+                        "to": "mikael"
+                    }
+                ]
+            },
+            {
+                "description": "marmita",
+                "date": "15-08-2020",
+                "division": [
+                    {
+                        "valor": 12.0,
+                        "from": "paola",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "marmita",
+                "date": "16-08-2020",
+                "division": [
+                    {
+                        "valor": 36.0,
+                        "from": "inã",
+                        "to": "paola"
+                    }
+                ]
+            },
+            {
+                "description": "marmita",
+                "date": "18-08-2020",
+                "division": [
+                    {
+                        "valor": 19.5,
+                        "from": "paola",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "empanadas",
+                "date": "19-08-2020",
+                "division": [
+                    {
+                        "valor": 14.9,
+                        "from": "inã",
+                        "to": "paola"
+                    }
+                ]
+            },
+            {
+                "description": "luvas",
+                "date": "21-08-2020",
+                "division": [
+                    {
+                        "valor": 60.0,
+                        "from": "paola",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "pizza pop",
+                "date": "07-08-2020",
+                "division": [
+                    {
+                        "valor": 20.0,
+                        "from": "inã",
+                        "to": "mikael"
+                    },
+                    {
+                        "valor": 20.0,
+                        "from": "paola",
+                        "to": "mikael"
+                    }
+                ]
+            },
+            {
+                "description": "bobs",
+                "date": "21-08-2020",
+                "division": [
+                    {
+                        "valor": 23.4,
+                        "from": "paola",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "caixas",
+                "date": "28-08-2020",
+                "division": [
+                    {
+                        "valor": 19.0,
+                        "from": "paola",
+                        "to": "inã"
+                    },
+                    {
+                        "valor": 19.0,
+                        "from": "mikael",
+                        "to": "inã"
+                    }
+                ]
+            }
+        ],
+        "09": [
+            {
+                "description": "zepp",
+                "date": "02-09-2020",
+                "division": [
+                    {
+                        "valor": 17.5,
+                        "from": "paola",
+                        "to": "inã"
+                    },
+                    {
+                        "valor": 13.5,
+                        "from": "mikael",
+                        "to": "inã"
+                    }
+                ]
+            },
+            {
+                "description": "manhattan",
+                "date": "04-09-2020",
+                "division": [
+                    {
+                        "valor": 47.7,
+                        "from": "inã",
+                        "to": "paola"
+                    },
+                    {
+                        "valor": 28.6,
+                        "from": "mikael",
+                        "to": "paola"
+                    }
+                ]
+            },
+            {
+                "description": "manhattan",
+                "date": "05-09-2020",
+                "division": [
+                    {
+                        "valor": 26.6,
+                        "from": "inã",
+                        "to": "paola"
+                    },
+                    {
+                        "valor": 26.6,
+                        "from": "mikael",
+                        "to": "paola"
+                    }
+                ]
+            }
+        ]
+    }
+}
